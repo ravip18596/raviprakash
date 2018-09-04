@@ -4,8 +4,10 @@
   "private": true,
   "homepage": "http://ravip18596.github.io/raviprakash",
   "dependencies": {
+    "jquery": "^3.3.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-ga": "^2.5.3",
     "react-scripts": "1.1.5"
   },
   "devDependencies": {
