@@ -1,50 +1,30 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
+    "name":"Ravi Prakash",
+    "occupation":"Software Engineer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "ravip18596@gmail.com",
+    "phone": "+919868576600",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Gemini Park",
+      "city":"Delhi-NCR",
+      "state":"Delhi",
+      "zip": "110043"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://ravip18596.github.io/raviprakash",
+    "resumedownload":"http://ravip18596.github.io/raviprakash/resumedownload",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/ravip18596",
         "className":"fa fa-github"
       },
       {
@@ -58,39 +38,43 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Netaji Subhash Institute of Technology (NSIT)",
+        "degree":"Bachelor in Engineering in Computer Engineering",
+        "graduated":"May 2018",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"B.G.S. International Public School",
+        "degree":"Middle and High School",
+        "graduated":"March 2014",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Magicpin (Samast Technologies Pvt. Ltd.)",
+        "title":"Software Engineer",
+        "years":"April 2018 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"Constems-AI Systems Pvt. Ltd.",
+        "title":"Full Stack and Machine Learning Developer",
+        "years":"May 2017 - January 2018",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"Illustrator",
+        "name":"Deep Learning",
+        "level":"55%"
+      },
+      {
+        "name":"Machine Learning",
         "level":"55%"
       },
       {
@@ -103,14 +87,18 @@
       },
       {
         "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Tensorflow",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Golang",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Redis",
         "level":"80%"
       }
     ]
