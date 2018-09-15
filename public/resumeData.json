@@ -28,6 +28,11 @@
         "className":"fa fa-github"
       },
       {
+        "name":"google-plus",
+        "url":"https://plus.google.com/109573533193991737601",
+        "className":"fa fa-google-plus"
+      },
+      {
         "name":"skype",
         "url":"http://skype.com",
         "className":"fa fa-skype"
