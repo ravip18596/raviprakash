@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a Software Engineer at Magicpin specializing in Machine Learning, Backend developement using golang, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ravip18596@gmail.com",
     "phone": "+919868576600",
@@ -15,11 +15,11 @@
       "zip": "110043"
     },
     "website": "http://ravip18596.github.io/raviprakash",
-    "resumedownload":"http://ravip18596.github.io/raviprakash/resumedownload",
+    "resumedownload":"https://drive.google.com/open?id=1CxdgcnkM4b0o25OuMTAzxvHZGQmxo0Vs",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ravi-prakash-679974137/",
         "className":"fa fa-linkedin"
       },
       {
@@ -111,10 +111,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Golang Blogs",
+        "category":"Data Structure and Algorithms discussion and implementation",
+        "image":"golang-blogs.jpg",
+        "url":"http://ravip18596.blogspot.com/"
       },
       {
         "title":"Fury Fighting Gear",
@@ -132,7 +132,7 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://ravip18596.github.io/raviprakash/"
       },
       {
         "title":"Smirkspace",
